@@ -1,0 +1,146 @@
+.banner {
+    font-family: 'Nunito', 'Times New Roman', Times, serif;
+    Font-size: 26px;
+    text-align: center;
+    text-decoration: underline;
+    font-weight: bold;
+}
+h2 {
+    text-align: center;
+    font-family: 'Nunito';
+    font-style: italic;
+    text-decoration:none;
+    font-size: 20px;
+}
+.color-styles li {
+    display: inline-block;
+    font-size: 15px;
+}
+.material {
+    border: 2px solid #000;
+    margin: 20px;
+    padding: 15px;
+    text-align: center;
+    list-style-position: inside;
+}
+.material ul {
+    margin: 0 auto
+    padding 0;
+}
+#color-styles li{
+    font-size:25px;
+    display: inline-block;
+    width: 160px;
+    margin: 5px;
+    text-align: center;
+    color: #fff
+}
+#element {
+    padding: 20px;
+}
+.dark-red {
+    background-color: #800020;
+}
+.dark-green {
+    background-color: #808000;
+}
+.orange {
+    background-color: #DC582A;
+}
+.brown {
+    background-color: #8a624a;
+}
+<!--Font-Section-->
+#second-border {
+    display: inline-block;
+}
+#second-border h3 {
+    text-decoration: underline;
+    font-size: 17px;
+}
+.fonts {
+    display: inline-block;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+}
+p {
+    font-size: 14px;
+}
+<!--Rubik-->
+
+#rubik-styles {
+    font-family: 'Rubik';
+}
+#rubik-font{
+    font-family: 'Rubik';
+    font-weight: lighter;
+}
+#rubik-normal {
+    font-family: 'Rubik';
+    font-size: 400;
+}
+#rubik-zesty {
+    font-family: 'Rubik';
+    font-size: 400;
+    font-style: italic;
+}
+#rubik-bold {
+    font-family: 'Rubik';
+    font-size: 800;
+    font-weight: bold
+}
+
+<!--PT-Sans-->
+#pt-sans-styles {
+    font-family: 'PT Sans';
+}
+#pt-font {
+    font-family: 'PT Sans';
+    font-weight: lighter;
+}
+#pt-sans-normal {
+    font-family: 'PT Sans';
+    font-size: 400;
+}
+#pt-sans-zesty {
+    font-family: 'PT Sans';
+    font-size: 400;
+    font-style: italic;
+}
+#pt-sans-bold {
+    font-family: 'PT Sans';
+    font-size: 700;
+    font-weight: bold;
+}
+
+<!--Nunito-->
+#nunito-styles {
+    font-family: 'Nunito';
+}
+#nunito-font {
+    font-family: 'Nunito';
+    font-weight: lighter;
+}
+#nunito-normal {
+    font-family: 'Nunito';
+    font-size: 400;
+}
+#nunito-zesty {
+    font-family: 'Nunito';
+    font-style: italic;
+}
+#nunito-bold {
+    font-family: 'Nunito';
+    font-size: 800;
+    font-weight: bold;
+}
+
+.text h3{
+    font-weight: lighter;
+    font-family: 'Rubik';
+    font-size: 14px;
+}
+.text ul {
+    padding: 5px;
+}
